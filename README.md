@@ -36,7 +36,12 @@ Copy code,
 Copy code,
 *docker-compose up*.
 
-L'application sera accessible à l'adresse : http://localhost:8089
+L'application sera accessible à l'adresse : http://localhost:8089.
+
+*Email:* **admin@admin**.
+
+*Mot de passe:* **admin@admin**.
+
 
 ## Installation en Mode Local
 
