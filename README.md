@@ -61,8 +61,11 @@ L'application sera accessible à l'adresse : http://localhost:8089.
 **Fonctionnalités**
 
 1.Liste des pharmacies avec leurs détails.
+
 2.Gestion des gardes planifiées pour chaque pharmacie.
+
 3.Interface conviviale avec Thymeleaf.
+
 4.Utilisation de DataTables pour afficher les données de manière interactive.
 
 
