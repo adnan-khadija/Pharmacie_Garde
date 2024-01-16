@@ -40,9 +40,7 @@ L'application sera accessible à l'adresse : http://localhost:8089.
 
 *Mot de passe:* **admin@admin**.
 
-## Lien DockerHub
 
-https://hub.docker.com/repositories/sana2003
 
 ## Installation en Mode Local
 
@@ -102,6 +100,11 @@ https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/7c068fc2-3b9c-
 
 
 https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/ed9074ec-1d84-4f5c-b63f-9b94e409c08a
+
+
+## Lien DockerHub
+
+https://hub.docker.com/repositories/sana2003
 
 
 ## Auteurs
