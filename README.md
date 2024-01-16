@@ -62,16 +62,16 @@ L'application sera accessible à l'adresse : http://localhost:8089.
 
 ## Sonarqube Test
 
-![image](https://github.com/adnan-khadija/PharmacieGarde/assets/147508009/26b7ebfd-728f-4969-9b92-effd556e18d8)
+![image](https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/522660e1-c597-4e78-b8ed-0bd988af5ae0)
 
 
 
-![image](https://github.com/adnan-khadija/PharmacieGarde/assets/147508009/70abc13b-48f1-44ca-b915-236ea356037e)
+![image](https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/8a3318f6-65d1-4cb5-bf74-037a71cd8af2)
 
 
 ## Base de donnés:
 
-![image](https://github.com/adnan-khadija/PharmacieGarde/assets/147508009/f4e6683c-8145-4bd1-9be3-c41fc767472d)
+![image](https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/f23593cf-a6c3-41f5-bb4b-8241970c4da7)
 
 ## Vidéo de démonstration
 
