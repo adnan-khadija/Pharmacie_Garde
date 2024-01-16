@@ -49,7 +49,7 @@ Si vous préférez exécuter l'application en dehors d'un conteneur Docker, suiv
 
 **Configurez la base de données**
 
-Créez une base de données MySQL appelée garde
+Créez une base de données MySQL appelée *pg*.
 
 Mettez à jour les informations d'accès à la base de données dans le fichier *application.properties*.
 
