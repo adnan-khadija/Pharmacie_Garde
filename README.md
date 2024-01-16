@@ -18,23 +18,21 @@ y compris les détails sur les pharmacies et les gardes planifiées.
 Le projet prend en charge la dockerisation pour faciliter le déploiement. Suivez ces étapes pour exécuter l'application dans un conteneur Docker.
 
 ### 1. Clonez le dépôt
+
    *git clone https://github.com/adnan-khadija/PharmacieGarde.git*
 
 
-
-
 ### 2.Accédez au répertoire du projet
-Copy code *cd nom-du-repertoire*
+
+Copy  *cd 'nom-du-repertoire'*
 
 **Build de l'image Docker**
 
-Copy code,
-*docker-compose build*.
+Copy, *docker-compose build*.
 
 **Lancez le conteneur Docker**
 
-Copy code,
-*docker-compose up*.
+Copy ,*docker-compose up*.
 
 L'application sera accessible à l'adresse : http://localhost:8089.
 
