@@ -104,7 +104,15 @@ https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/ed9074ec-1d84-
 
 ## Lien DockerHub
 
+Vous pouvez utiliser l'image Docker de ce projet disponible sur Docker Hub en utilisant la commande suivante :
+
+*docker pull nom_image*
+
+Retrouvez les images à ce lien :
+
 https://hub.docker.com/repositories/sana2003
+
+N'oubliez pas de remplacer "*nom_image*" par le nom réel de l'image sur Docker Hub.
 
 
 ## Auteurs
