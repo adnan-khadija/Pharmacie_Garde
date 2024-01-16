@@ -73,16 +73,23 @@ L'application sera accessible à l'adresse : http://localhost:8089.
 
 ![image](https://github.com/adnan-khadija/PharmacieGarde/assets/147508009/f4e6683c-8145-4bd1-9be3-c41fc767472d)
 
-##Vidéo de démonstration
+## Vidéo de démonstration
 
+**Administrateur**
 
 https://github.com/adnan-khadija/Gestion-Pharamcie/assets/147508009/49ead2bf-a873-40ab-b687-897dab2e4da5
+
+
+**Pharmacien**
 
 
 https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/7c068fc2-3b9c-48b1-8e68-fa635dfa6025
 
 
+**Client**
 
+
+https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/ed9074ec-1d84-4f5c-b63f-9b94e409c08a
 
 
 
