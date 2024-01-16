@@ -36,6 +36,11 @@ Copy ,*docker-compose up*.
 
 L'application sera accessible à l'adresse : http://localhost:8089.
 
+
+![image](https://github.com/adnan-khadija/Pharmacie_Garde/assets/147508009/5e37eb46-f08b-4954-ae92-da2ebc4d380d)
+
+
+
 *Email:* **admin@admin**.
 
 *Mot de passe:* **admin@admin**.
